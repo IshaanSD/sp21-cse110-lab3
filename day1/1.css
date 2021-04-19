@@ -1,17 +1,21 @@
 /* This is CSS for the home page of the website */
 * {
-    background-color: lightblue;
-    font-family: Arial, Helvetica, sans-serif;
-
-
+  background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
 }
 audio {
-    display: block;
+  display: block;
 }
-#magic-pic:hover,p:hover,h1:hover,h2:hover,h3:hover,ul:hover,footer:hover{
-    /* magic */
-    display:none;
+#magic-pic:hover,
+p:hover,
+h1:hover,
+h2:hover,
+h3:hover,
+ul:hover,
+footer:hover {
+  /* magic */
+  display: none;
 }
 img[width="40"] {
-    display:none;
+  display: none;
 }
