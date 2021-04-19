@@ -1,1 +1,2 @@
-# sp21-cse110-lab3
+The site for this assignment can be found at 
+`https://ishaansd.github.io/Lab2/`
